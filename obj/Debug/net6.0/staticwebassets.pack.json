@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/scopedcss/projectbundle/NeuesWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/NeuesWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.NeuesWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.NeuesWebApp.props",
+      "PackagePath": "build\\NeuesWebApp.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.NeuesWebApp.props",
+      "PackagePath": "buildMultiTargeting\\NeuesWebApp.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.NeuesWebApp.props",
+      "PackagePath": "buildTransitive\\NeuesWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

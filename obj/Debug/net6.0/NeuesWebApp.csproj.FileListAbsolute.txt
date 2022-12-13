@@ -1,0 +1,499 @@
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/appsettings.json
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.staticwebassets.runtime.json
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.exe
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.deps.json
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.runtimeconfig.json
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.pdb
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/Neues.Core.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/Neues.Infrastructure.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/Neues.Core.pdb
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/bin/Debug/net6.0/Neues.Infrastructure.pdb
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.AssemblyReference.cache
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.AssemblyInfoInputs.cache
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.AssemblyInfo.cs
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.CoreCompileInputs.cache
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.RazorAssemblyInfo.cache
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.RazorAssemblyInfo.cs
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/scopedcss/bundle/NeuesWebApp.styles.css
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/scopedcss/projectbundle/NeuesWebApp.bundle.scp.css
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.CopyComplete
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/refint/NeuesWebApp.dll
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.pdb
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.genruntimeconfig.cache
+C:/Users/SEAYO/Documents/NEUES/NeuesWebApp/obj/Debug/net6.0/ref/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/appsettings.json
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.staticwebassets.runtime.json
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.deps.json
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.runtimeconfig.json
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.pdb
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Neues.Infrastructure.pdb
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.AssemblyReference.cache
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.AssemblyInfoInputs.cache
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.AssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.CoreCompileInputs.cache
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.RazorAssemblyInfo.cache
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.RazorAssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/scopedcss/bundle/NeuesWebApp.styles.css
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/scopedcss/projectbundle/NeuesWebApp.bundle.scp.css
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.CopyComplete
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/refint/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.pdb
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.genruntimeconfig.cache
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/obj/Debug/net6.0/ref/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Azure.Core.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Azure.Identity.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.ResourceManager.Fluent.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.Sql.Fluent.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.Storage.Fluent.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.Azure.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.WindowsAzure.Storage.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Humanizer.dll
+/Users/samuelleke/Downloads/NEUES33/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/appsettings.json
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.staticwebassets.runtime.json
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.exe
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.deps.json
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.runtimeconfig.json
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.pdb
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Humanizer.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.ResourceManager.Fluent.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.Sql.Fluent.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.Storage.Fluent.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.Azure.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Microsoft.WindowsAzure.Storage.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Neues.Core.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Neues.Infrastructure.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Neues.Core.pdb
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/bin/Debug/net6.0/Neues.Infrastructure.pdb
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.AssemblyReference.cache
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.AssemblyInfoInputs.cache
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.AssemblyInfo.cs
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.CoreCompileInputs.cache
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.RazorAssemblyInfo.cache
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.RazorAssemblyInfo.cs
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/scopedcss/bundle/NeuesWebApp.styles.css
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/scopedcss/projectbundle/NeuesWebApp.bundle.scp.css
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.CopyComplete
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/refint/NeuesWebApp.dll
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.pdb
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.genruntimeconfig.cache
+C:/Users/SEAYO/Downloads/NEUES-20221003T083112Z-001/NEUES/NeuesWebApp/obj/Debug/net6.0/ref/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/appsettings.json
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.staticwebassets.runtime.json
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.deps.json
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.runtimeconfig.json
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.pdb
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Azure.Core.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Azure.Identity.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Humanizer.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.ResourceManager.Fluent.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.Sql.Fluent.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.Storage.Fluent.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.Azure.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Microsoft.WindowsAzure.Storage.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/bin/Debug/net6.0/Neues.Infrastructure.pdb
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.AssemblyReference.cache
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.AssemblyInfoInputs.cache
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.AssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.CoreCompileInputs.cache
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.RazorAssemblyInfo.cache
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.RazorAssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/scopedcss/bundle/NeuesWebApp.styles.css
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/scopedcss/projectbundle/NeuesWebApp.bundle.scp.css
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.CopyComplete
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/refint/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.pdb
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.genruntimeconfig.cache
+/Users/samuelleke/Downloads/NEUES (1) 2/NeuesWebApp/obj/Debug/net6.0/ref/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/appsettings.json
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.staticwebassets.runtime.json
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.deps.json
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.runtimeconfig.json
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.pdb
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Azure.Core.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Azure.Identity.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Humanizer.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.ResourceManager.Fluent.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.Sql.Fluent.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.Storage.Fluent.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.Azure.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Microsoft.WindowsAzure.Storage.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/bin/Debug/net6.0/Neues.Infrastructure.pdb
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.AssemblyReference.cache
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.AssemblyInfoInputs.cache
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.AssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.CoreCompileInputs.cache
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.RazorAssemblyInfo.cache
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.RazorAssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/scopedcss/bundle/NeuesWebApp.styles.css
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/scopedcss/projectbundle/NeuesWebApp.bundle.scp.css
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.CopyComplete
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/refint/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.pdb
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.genruntimeconfig.cache
+/Users/samuelleke/Downloads/NEUESW/NeuesWebApp/obj/Debug/net6.0/ref/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.AssemblyReference.cache
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.AssemblyInfoInputs.cache
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.AssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.CoreCompileInputs.cache
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.RazorAssemblyInfo.cache
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.RazorAssemblyInfo.cs
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/appsettings.json
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.staticwebassets.runtime.json
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.deps.json
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.runtimeconfig.json
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/NeuesWebApp.pdb
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Azure.Core.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Azure.Identity.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Azure.Storage.Blobs.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Azure.Storage.Common.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Humanizer.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/System.Web.Cors.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/System.Web.Http.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/System.Web.Http.Cors.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.ResourceManager.Fluent.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.Sql.Fluent.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.Azure.Management.Storage.Fluent.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.Azure.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/System.IO.Hashing.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Microsoft.WindowsAzure.Storage.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Neues.Core.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Neues.Infrastructure.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Neues.Core.pdb
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/bin/Debug/net6.0/Neues.Infrastructure.pdb
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/scopedcss/bundle/NeuesWebApp.styles.css
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/scopedcss/projectbundle/NeuesWebApp.bundle.scp.css
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.csproj.CopyComplete
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/refint/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.pdb
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/NeuesWebApp.genruntimeconfig.cache
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/ref/NeuesWebApp.dll
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/staticwebassets/msbuild.NeuesWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/staticwebassets/msbuild.build.NeuesWebApp.props
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.NeuesWebApp.props
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.NeuesWebApp.props
+/Users/samuelleke/Downloads/NEUESWATCH/NeuesWebApp/obj/Debug/net6.0/staticwebassets.pack.json
